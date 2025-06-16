@@ -6,5 +6,5 @@
 ## UI
 
 <img width="362" alt="Screenshot 2025-06-16 230510" src="https://github.com/user-attachments/assets/b34ab202-8dbb-4222-ac3e-e93726997ae8" />
-
+---
 <img width="202" alt="Screenshot 2025-06-16 230532" src="https://github.com/user-attachments/assets/a4ac4c4d-7f7e-4834-be38-2afb185d7a07" />
