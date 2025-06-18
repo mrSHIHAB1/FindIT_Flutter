@@ -3,7 +3,7 @@
   
 - To address this issue, we have developed "Find It App", a mobile application created using Android Studio with the Dart programming language. This app provides a digital platform where individuals can post information and photos of lost items, and others in the community can view these posts to help locate and return them. The app promotes a culture of assistance and collaboration among users, aiming to make item recovery easier and more efficient through technology.
 
-## UI
+## UI Samples
 
 <img width="362" alt="Screenshot 2025-06-16 230510" src="https://github.com/user-attachments/assets/b34ab202-8dbb-4222-ac3e-e93726997ae8" />
 <br>
